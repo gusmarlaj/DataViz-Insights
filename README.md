@@ -1,4 +1,4 @@
-DataViz Insights
+# **DataViz Insights**
 
 1. Introduction
 
